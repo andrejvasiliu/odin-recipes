@@ -1,0 +1,27 @@
+h1 {
+    color: orangered;
+    background-color: wheat;
+    font-weight: 900;
+}
+
+h2 {
+    color: aquamarine;
+    background-color: cadetblue;
+}
+
+p {
+    color: white;
+    background-color: coral;
+}
+
+ul {
+    font-weight: 600;
+    font-family: Geneva, Tahoma, sans-serif;
+    text-align: left;
+}
+
+ol {
+    font-weight: 800;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: right;
+}
